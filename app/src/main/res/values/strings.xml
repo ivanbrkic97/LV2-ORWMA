@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LV2-ORWMA</string>
+    <string name="student_one">Ana</string>
+    <string name="student_two">Marko</string>
+    <string name="student_three">Robert</string>
+    <string name="editText_hint">Ime</string>
+    <string name="submintButton_text">DODAJ</string>
+</resources>
